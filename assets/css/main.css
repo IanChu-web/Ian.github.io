@@ -113,11 +113,11 @@ input, select, textarea {
 			transition: none !important;
 		}
 		.column1 {
-			width: 50%;
+			width: 30%;
 			float: left; /* The float property is used for positioning and formatting content e.g. let an image float left to the text in a container. */
 		}
 		.column2 {
-			width: 50%;
+			width: 70%;
 			float: right; /* The float property is used for positioning and formatting content e.g. let an image float left to the text in a container. */
 		}
 /* Type */
